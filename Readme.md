@@ -1,4 +1,4 @@
-# Проект «Большое путешествие» [![Check status][check-image]][check-url]
+# Проект «Большое путешествие» ( [live demo](https://pavel-liteiniy.github.io/991145-big-trip-13/) )
 
 * Студент: [Pavel Sevostyanov](https://up.htmlacademy.ru/ecmascript/13/user/991145).
 * Наставник: `Неизвестно`.
